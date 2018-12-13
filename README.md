@@ -26,11 +26,11 @@ $ npx create slate-theme my-new-theme liron-navon/slate-react-starter
 #### How to pass store data to my react components?
 
 Look at this snippet, this div element is going to be where out react component will be rendered,
-You can pass `prop-<propName>` to it and fill in the data, in this example we will have a prop named `shopName` and it will receive the name of the shop
+You can pass `prop-<propName>` to it and fill in the data, in this example we will have a prop named `shopname` and it will receive the name of the shop
 
 ```html
 <div 
-     react-shopName='{{shop.name}}' 
+     props-shopname='{{shop.name}}' 
      id="react-theme-component"> 
      a react component is rendered here 
 </div>
