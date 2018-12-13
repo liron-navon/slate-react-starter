@@ -1,5 +1,5 @@
 {
-  "name": "react-starter-theme",
+  "name": "slate-react-starter",
   "version": "1.0.0",
   "private": true,
   "author": "Shopify Inc., Liron Navon",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liron-navon/react-starter-theme.git"
+    "url": "https://github.com/liron-navon/slate-react-starter.git"
   },
   "devDependencies": {
     "@shopify/slate-tools": "^1.0.0-beta.14",
