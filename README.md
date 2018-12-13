@@ -30,7 +30,7 @@ You can pass `prop-<propName>` to it and fill in the data, in this example we wi
 
 ```html
 <div 
-     props-shopname='{{shop.name}}' 
+     prop-shopname='{{shop.name}}' 
      id="react-theme-component"> 
      a react component is rendered here 
 </div>
