@@ -41,7 +41,7 @@ You can pass `prop-<propName>` to it and fill in the data, in this example we wi
 please use the helper function I made for it, it allows you to pass parameters from the liquid template to react:
 
 ```js
-import ThemeComponent from '../../react/layout/theme.react';
+import ThemeComponent from '../../react/layout/theme.jsx';
 import {mountReact} from '../../react/mountReact';
 
 // the component is rendered to replace the selected html element
