@@ -1,8 +1,10 @@
 ## This is a react starter template for slate, it is based on Shopify's starter template
 
+Thanks to [@dan-gamble](https://github.com/dan-gamble) for helping with the slate configurations
+
 get started
 ```
-$ yarn create slate-theme my-new-theme liron-navon/slate-react-starter
+$ npx create slate-theme my-new-theme liron-navon/slate-react-starter
 ```
 
 
