@@ -5,8 +5,9 @@ Thanks to [@dan-gamble](https://github.com/dan-gamble) for helping with the slat
 This project is based off [shopify/skeleton-theme](https://github.com/shopify/skeleton-theme), checkout [Slate](https://github.com/Shopify/slate) for more information.
 
 ### get started
+Install the theme with npx:
 ```
-$ npx create slate-theme my-new-theme liron-navon/slate-react-starter
+npx create slate-theme my-new-theme liron-navon/slate-react-starter
 ```
 
 
